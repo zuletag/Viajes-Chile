@@ -1,4 +1,48 @@
 body {
     font-family: "Montserrat", sans-serif;
     font-family: "Roboto", sans-serif;
+    background-color: var(--backgroud-color);
+    color: #fff;
+}
+
+#Hero-Section {
+    background-image: url(../img/carousel1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 100vh;
+}
+
+:root {
+    --main-color: #49c8ee;
+    --backgroud-color: #000;
+}
+
+h1{
+    color: #fff;
+}
+
+.navbar-brand img {
+    height: 2.1rem;
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.055);
+    align-items: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.navbar-brand{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20pt;
+    color: #fff;
+    font-weight: 500;
+}
+
+footer{
+    background-color: var(--main-color);
+    font-family: "Montserrat", sans-serif;
 }

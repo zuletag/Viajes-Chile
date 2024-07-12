@@ -10,11 +10,15 @@ body {
     --backgroud-color: #000;
 }
 
+/* Fuentes */
 h1{
     color: #fff;
     font-family: "Montserrat", sans-serif;
 }
+/* Fin Fuentes */
 
+
+/* Navbar */
 .navbar-brand img {
     height: 2.1rem;
 }
@@ -24,26 +28,31 @@ h1{
     align-items: center;
 }
 
-.container{
-    text-align: center;
-}
-
 .navbar-brand{
     font-family: "Montserrat", sans-serif;
     font-size: 20pt;
     color: #fff;
     font-weight: 500;
 }
+/* Fin Navbar */
 
+
+/* Footer */
 footer{
     background-color: var(--main-color);
     font-family: "Montserrat", sans-serif;
 }
+/* Fin Footer */
 
+
+/* Quienes Somos */
 .cuadro-iconos{
     background-color: var(--main-color);
 }
+/* Fin Quienes Somos */
 
+
+/* Card */
 .card-img-top {
     width: 100%;
     height: 8rem;
@@ -58,3 +67,5 @@ footer{
 .card h4{
     font-family: "Montserrat", sans-serif;
 }
+/* Fin Card */
+

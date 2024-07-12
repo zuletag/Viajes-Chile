@@ -5,14 +5,6 @@ body {
     color: #fff;
 }
 
-#Hero-Section {
-    background-image: url(../img/carousel1.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: left;
-    height: 100vh;
-}
-
 :root {
     --main-color: #49c8ee;
     --backgroud-color: #000;
@@ -20,6 +12,7 @@ body {
 
 h1{
     color: #fff;
+    font-family: "Montserrat", sans-serif;
 }
 
 .navbar-brand img {
@@ -27,7 +20,7 @@ h1{
 }
 
 .navbar{
-    background-color: rgba(0, 0, 0, 0.055);
+    background-color: rgba(0, 0, 0, 0.473);
     align-items: center;
 }
 
@@ -44,5 +37,24 @@ h1{
 
 footer{
     background-color: var(--main-color);
+    font-family: "Montserrat", sans-serif;
+}
+
+.cuadro-iconos{
+    background-color: var(--main-color);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 8rem;
+    object-fit: cover;
+}
+
+.card {
+    background-color: var(--main-color);
+    color: white;
+}
+
+.card h4{
     font-family: "Montserrat", sans-serif;
 }

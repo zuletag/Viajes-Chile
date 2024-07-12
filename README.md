@@ -15,6 +15,10 @@ La página debe contener las siguientes secciones:
  6. Una sección de formulario de contacto.
  7. Una sección footer con links a las redes sociales.
 
+![Captura de pantalla_12-7-2024_0359_](https://github.com/user-attachments/assets/1e76f054-c0e8-4d70-b6aa-a16a9fbab7d8)
+
+https://zuletag.github.io/Viajes-Chile/
+
 ## Autores
 
 Fernando Zuleta Guamán
